@@ -1,0 +1,1 @@
+# ritcheyandai_get_bytes_from_stdin_i1
